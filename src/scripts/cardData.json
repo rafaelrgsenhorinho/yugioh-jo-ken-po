@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "name": "Blue Eyes White Dragon",
+        "type": "Paper",
+        "img": "blue-eyes-white-dragon.jpg",
+        "WinOf": [1,4,7,10,13],
+        "LoseOf": [2,5,8,11,14]
+    },
+    {
+        "id": 1,
+        "name": "Dark Magician Girl",
+        "type": "Rock",
+        "img": "dark-magician-girl.jpg",
+        "WinOf": [2,5,8,11,14],
+        "LoseOf": [0,3,6,9,12]
+    },
+    {
+        "id": 2,
+        "name": "Dark Magician",
+        "type": "Scissors",
+        "img": "dark-magician.jpg",
+        "WinOf": [0,3,6,9,12],
+        "LoseOf": [1,4,7,10,13]
+    },
+    {
+        "id": 3,
+        "name": "The Winged Dragon Of Ra",
+        "type": "Paper",
+        "img": "the-winged-dragon-of-ra.jpg",
+        "WinOf": [1,4,7,10,13],
+        "LoseOf": [2,5,8,11,14]
+    },
+    {
+        "id": 4,
+        "name": "Time Wizard",
+        "type": "Rock",
+        "img": "time-wizard.jpg",
+        "WinOf": [2,5,8,11,14],
+        "LoseOf": [0,3,6,9,12]
+    },
+    {
+        "id": 5,
+        "name": "Summoned Skull",
+        "type": "Scissors",
+        "img": "summoned skull.jpg",
+        "WinOf": [0,3,6,9,12],
+        "LoseOf": [1,4,7,10,13]
+    },
+    {
+        "id": 6,
+        "name": "Slifer The Sky Dragon",
+        "type": "Paper",
+        "img": "slifer-the-sky-dragon.jpg",
+        "WinOf": [1,4,7,10,13],
+        "LoseOf": [2,5,8,11,14]
+    },
+    {
+        "id": 7,
+        "name": "Red-Eyes Black Dragon",
+        "type": "Rock",
+        "img": "red-eyes-black-dragon.jpg",
+        "WinOf": [2,5,8,11,14],
+        "LoseOf": [0,3,6,9,12]
+    },
+    {
+        "id": 8,
+        "name": "Mystical Elf",
+        "type": "Scissors",
+        "img": "mystical-elf.jpg",
+        "WinOf": [0,3,6,9,12],
+        "LoseOf": [1,4,7,10,13]
+    },
+    {
+        "id": 9,
+        "name": "Obelisk The Tormentor",
+        "type": "Paper",
+        "img": "obelisk-the-tormentor.jpg",
+        "WinOf": [1,4,7,10,13],
+        "LoseOf": [2,5,8,11,14]
+    },
+    {
+        "id": 10,
+        "name": "Feral Imp",
+        "type": "Rock",
+        "img": "feral-imp.jpg",
+        "WinOf": [2,5,8,11,14],
+        "LoseOf": [0,3,6,9,12]
+    },
+    {
+        "id": 11,
+        "name": "Gaia The Fierce Knight",
+        "type": "Scissors",
+        "img": "gaia-the-fierce-knight.jpg",
+        "WinOf": [0,3,6,9,12],
+        "LoseOf": [1,4,7,10,13]
+    },
+    {
+        "id": 12,
+        "name": "Exodia",
+        "type": "Paper",
+        "img": "exodia.jpg",
+        "WinOf": [1,4,7,10,13],
+        "LoseOf": [2,5,8,11,14]
+    },
+    {
+        "id": 13,
+        "name": "Curse of Dragon",
+        "type": "Rock",
+        "img": "curse-of-dragon.jpg",
+        "WinOf": [2,5,8,11,14],
+        "LoseOf": [0,3,6,9,12]
+    },
+    {
+        "id": 14,
+        "name": "Kuriboh",
+        "type": "Scissors",
+        "img": "kuriboh.jpg",
+        "WinOf": [0,3,6,9,12],
+        "LoseOf": [1,4,7,10,13]
+    }
+]
