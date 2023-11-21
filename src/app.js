@@ -5,7 +5,7 @@ const cardsRoute = require('./cardsRoute/cardsRoute.js');
 
 app.use('/cards', cardsRoute);
 
-app.use(express.static(path.join(__dirname, '../api/', api)))
+app.use(express.static(path.join(__dirname, '../')))
 
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '../', 'index.html'));
